@@ -1,0 +1,6 @@
+@Lab3API_HostAddress = http://localhost:5206
+
+GET {{Lab3API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+
+# Node
+**/node_modules/
+**/dist/
+
+# Secrets
+**/appsettings.Development.json
+**/.env
+**/.env.*
+!**/.env.example
+**/secrets.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local backups
+_Lab3Backup/
